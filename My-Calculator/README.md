@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# My Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+A simple and beautiful calculator created using React 17 (HTML5, CSS3, Javascript)
+
+## Features
+
+- Common operations work such as addition, substraction, multiplication and division
+- Extra operations such as All Clear (AC) and Delete (DEL)
 
 In the project directory, you can run:
 
