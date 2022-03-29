@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to right, #C8d2fc, #facace)
+}
